@@ -9,3 +9,4 @@ function subNumbers(a, b) {
 }
 console.log(main(2, 3, addNumbers));
 console.log(main(20, 10, subNumbers));
+console.log("Hello")
